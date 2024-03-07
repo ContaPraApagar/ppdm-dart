@@ -2,15 +2,15 @@ void main() {
 
 Map<String, double> frutas = {
     
-    "abacaxi": 20.50,
+    "abacaxi": 19.99,
 
-    "uva": 1.50,
+    "maça": 4.50,
 
-    "maça": 3.50,
+    "uva": 2.50,
 
-    "pitaia": 2.40,
+    "banana": 1.50,
 
-    "banana": 2.50,
+    "ameixa": 3.80,
   };
 
   for (String fruta in frutas.keys) {
